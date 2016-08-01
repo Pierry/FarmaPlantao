@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">FarmaPlantao</string>
+  <string name="content_example">Rua Joao da Silva, 232</string>
+  <string name="app_name_title">FarmaPlantão</string>
+  <string name="click_to_go">Toque para navegar</string>
+  <string name="today_example">31 de julho de 2016</string>
+  <string name="title_example">Farmácia Farmais</string>
+  <string name="tomorrow_example">Amanhã, FarmaCentro</string>
+  <string name="home">Home</string>
+  <string name="share">Compartilhar</string>
+  <string name="sugests">Sugestões</string>
+  <string name="about">Sobre</string>
+  <string name="user">Usuário</string>
+  <string name="city_example">Concórdia</string>
+  <string name="message_city_example">CIDADE SELECIONADA</string>
+</resources>

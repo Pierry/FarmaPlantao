@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#03A9F4</color>
+  <color name="colorPrimaryDark">#0288D1</color>
+  <color name="colorAccent">#B3E5FC</color>
+  <color name="accent">#536DFE</color>
+  <color name="primary_text">#212121</color>
+  <color name="secondary_text">#727272</color>
+  <color name="icons">#FFFFFF</color>
+  <color name="divider">#B6B6B6</color>
+  <color name="cdia_black">#000000</color>
+  <color name="ccdia_gray">#999999</color>
+  <color name="ccdia_green">#688664</color>
+  <color name="fr_green">#66ae5a</color>
+  <color name="fr_silver">#d9d9d9</color>
+  <color name="fr_white">#FFFFFF</color>
+</resources>
