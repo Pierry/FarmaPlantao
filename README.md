@@ -16,3 +16,7 @@ indicado.
 2.  Adicione um arquivo semelhante ao src/main/assets/minhacidade.json com o nome da sua cidade,
 contendo o nome da farmácia, endereço, dia aberto, latitude e longitude.
 3.  Abra um Pull Request.
+
+# Preview
+
+![](https://raw.githubusercontent.com/Pierry/FarmaPlantao/master/app/src/main/art/hero.png)
