@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Farmácia Brasil",
+    "address": "Rua Marechal Deodoro, 1000",
+    "latitude": "-27.2330741",
+    "longitude": "-52.0291712",
+    "date": "03-08-2016"
+  },
+  {
+    "name": "Farmácia Concórdia",
+    "address": "Rua Marechal Deodoro, 949",
+    "latitude": "-27.233119",
+    "longitude": "-52.0286275",
+    "date": "04-08-2016"
+  },
+  {
+    "name": "Farmácia SESI",
+    "address": "Rua Marechal Deodoro, 969",
+    "latitude": "-27.2332199",
+    "longitude": "-52.0287795",
+    "date": "05-08-2016"
+  },
+  {
+    "name": "Farmácia SESI",
+    "address": "Rua do Comércio, 336",
+    "latitude": "-27.2299057",
+    "longitude": "-52.0292771",
+    "date": "06-08-2016"
+  },
+  {
+    "name": "Farmácia Concórdia",
+    "address": "Rua 29 de julho, 364",
+    "latitude": "-27.2347914",
+    "longitude": "-52.0327533",
+    "date": "07-08-2016"
+  },
+  {
+    "name": "Farmácia São João",
+    "address": "Rua Anita Garibaldi, 16",
+    "latitude": "-27.2310568",
+    "longitude": "-52.0260941",
+    "date": "08-08-2016"
+  },
+  {
+    "name": "Farmácia Farmais",
+    "address": "Rua 29 de Julho, 444, Sala 3",
+    "latitude": "-27.2352768",
+    "longitude": "-52.0334421",
+    "date": "09-08-2016"
+  },
+  {
+    "name": "Farmácia Concórdia",
+    "address": "Rua Marechal Deodoro, 949",
+    "latitude": "-27.233119",
+    "longitude": "-52.0286275",
+    "date": "10-08-2016"
+  },
+  {
+    "name": "Farmácia Oeste Farma",
+    "address": "Rua 29 de Julho, 185, Sala 1",
+    "latitude": "-27.2341517",
+    "longitude": "-52.03104",
+    "date": "11-08-2016"
+  },
+  {
+    "name": "Farmácia Vittal Farma",
+    "address": "Rua Marechal Deodoro, 799, Loja 2",
+    "latitude": "-27.2331921",
+    "longitude": "-52.0273994",
+    "date": "12-08-2016"
+  },
+  {
+    "name": "Farmácia Raia S.A.",
+    "address": "Rua Dr. Maruri, 451",
+    "latitude": "-27.231694",
+    "longitude": "-52.0295025",
+    "date": "13-08-2016"
+  },
+  {
+    "name": "Farmácia Concórdia",
+    "address": "Rua 29 de julho, 364",
+    "latitude": "-27.2347914",
+    "longitude": "-52.0327533",
+    "date": "14-08-2016"
+  },
+  {
+    "name": "Farmácia São João",
+    "address": "Rua Marechal Deodoro, 952",
+    "latitude": "-27.2330234",
+    "longitude": "-52.028663",
+    "date": "15-08-2016"
+  },
+  {
+    "name": "Farmácia Moderna",
+    "address": "Rua Marechal Deodoro, 769",
+    "latitude": "-27.2332038",
+    "longitude": "-52.0271516",
+    "date": "16-08-2016"
+  },
+  {
+    "name": "Farmácia Concórdia",
+    "address": "Rua Marechal Deodoro, 914",
+    "latitude": "-27.2330818",
+    "longitude": "-52.0283535",
+    "date": "17-08-2016"
+  },
+  {
+    "name": "Farmácia Popular",
+    "address": "Rua Marechal Deodoro, 826",
+    "latitude": "-27.2329197",
+    "longitude": "-52.0276341",
+    "date": "18-08-2016"
+  },
+  {
+    "name": "Farmácia Concórdia",
+    "address": "Rua 29 de julho, 364",
+    "latitude": "-27.2347914",
+    "longitude": "-52.0327533",
+    "date": "19-08-2016"
+  },
+  {
+    "name": "Farmácia Santa Luzia",
+    "address": "Rua do Comércio, 244",
+    "latitude": "-27.230296",
+    "longitude": "-52.0285485",
+    "date": "20-08-2016"
+  },
+  {
+    "name": "Farmácia Brasil",
+    "address": "Rua Marechal Deodoro, 1000",
+    "latitude": "-27.2330741",
+    "longitude": "-52.0291712",
+    "date": "21-08-2016"
+  },
+  {
+    "name": "Farmácia Concórdia",
+    "address": "Rua Marechal Deodoro, 949",
+    "latitude": "-27.233119",
+    "longitude": "-52.0286275",
+    "date": "22-08-2016"
+  },
+  {
+    "name": "Farmácia SESI",
+    "address": "Rua Marechal Deodoro, 969",
+    "latitude": "-27.2332199",
+    "longitude": "-52.0287795",
+    "date": "23-08-2016"
+  },
+  {
+    "name": "Farmácia SESI",
+    "address": "Rua do Comércio, 336",
+    "latitude": "-27.2299057",
+    "longitude": "-52.0292771",
+    "date": "24-08-2016"
+  },
+  {
+    "name": "Farmácia Concórdia",
+    "address": "Rua 29 de julho, 364",
+    "latitude": "-27.2347914",
+    "longitude": "-52.0327533",
+    "date": "25-08-2016"
+  },
+  {
+    "name": "Farmácia São João",
+    "address": "Rua Anita Garibaldi, 16",
+    "latitude": "-27.2310568",
+    "longitude": "-52.0260941",
+    "date": "26-08-2016"
+  },
+  {
+    "name": "Farmácia Farmais",
+    "address": "Rua 29 de Julho, 444, Sala 3",
+    "latitude": "-27.2352768",
+    "longitude": "-52.0334421",
+    "date": "27-08-2016"
+  },
+  {
+    "name": "Farmácia Concórdia",
+    "address": "Rua Marechal Deodoro, 949",
+    "latitude": "-27.233119",
+    "longitude": "-52.0286275",
+    "date": "28-08-2016"
+  },
+  {
+    "name": "Farmácia Oeste Farma",
+    "address": "Rua 29 de Julho, 185, Sala 1",
+    "latitude": "-27.2341517",
+    "longitude": "-52.03104",
+    "date": "29-08-2016"
+  },
+  {
+    "name": "Farmácia Vittal Farma",
+    "address": "Rua Marechal Deodoro, 799, Loja 2",
+    "latitude": "-27.2331921",
+    "longitude": "-52.0273994",
+    "date": "30-08-2016"
+  },
+  {
+    "name": "Farmácia Raia S.A.",
+    "address": "Rua Dr. Maruri, 451",
+    "latitude": "-27.231694",
+    "longitude": "-52.0295025",
+    "date": "31-08-2016"
+  }
+]

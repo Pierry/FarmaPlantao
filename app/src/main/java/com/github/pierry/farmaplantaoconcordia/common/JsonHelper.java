@@ -14,7 +14,7 @@ import org.androidannotations.annotations.EBean;
 
 @EBean public class JsonHelper {
 
-  private static final String JSON_NAME = "farmaconcordia.json";
+  private static final String JSON_NAME = "concordia.json";
   private static final String CHARSET = "UTF-8";
 
   private Context context;
