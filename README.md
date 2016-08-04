@@ -7,7 +7,7 @@ logicamente apenas eu farei o deploy na Google Play Store, mas colocarei os cré
 # Problema
 
 Dado que o usuário necessite de uma farmácia, considerando não existir nenhuma aberta, apenas em regime de plantão, 
-então o usuário deve ir até uma dessas farmácias para visualizar a lista dos plantões, e só então ir até o local
+então o usuário deve ir até uma dessas farmácias para visualizar a lista dos plantões ou buscar em algum site local da cidade que mostra essa lista, dependendo da cidade, e só então ir até o local
 indicado.
 
 # Solução
