@@ -14,4 +14,5 @@
   <color name="fr_green">#66ae5a</color>
   <color name="fr_silver">#d9d9d9</color>
   <color name="fr_white">#FFFFFF</color>
+  <color name="fr_black">#000000</color>
 </resources>
