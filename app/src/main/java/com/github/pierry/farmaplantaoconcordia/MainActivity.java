@@ -3,9 +3,8 @@ package com.github.pierry.farmaplantaoconcordia;
 import android.content.Intent;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.CardView;
 import android.support.v7.widget.Toolbar;
-import android.widget.ImageView;
+import android.widget.Button;
 import android.widget.TextView;
 import com.github.pierry.farmaplantaoconcordia.common.FontfaceHelper;
 import com.github.pierry.farmaplantaoconcordia.domain.Drugstore;
@@ -22,10 +21,10 @@ import org.androidannotations.annotations.ViewById;
 @EActivity(R.layout.activity_main) public class MainActivity extends AppCompatActivity {
 
   @ViewById TextView today;
-  @ViewById TextView title;
-  @ViewById TextView content;
-  @ViewById ImageView directions;
-  @ViewById CardView cardView;
+  @ViewById TextView city;
+  @ViewById TextView street;
+  @ViewById TextView local;
+  @ViewById Button navigate;
   @ViewById Toolbar toolbar;
 
   @Bean(DrugstoreRepository.class) IDrugstoreRepository drugstoreRepository;
@@ -43,19 +42,22 @@ import org.androidannotations.annotations.ViewById;
   }
 
   @UiThread void faces() {
-    FontfaceHelper.setFontFace(this, title);
-    FontfaceHelper.setFontFace(this, content);
+    FontfaceHelper.setFontFace(this, city);
+    FontfaceHelper.setFontFace(this, street);
+    FontfaceHelper.setFontFace(this, local);
     FontfaceHelper.setFontFace(this, today);
+    FontfaceHelper.setFontFace(this, navigate);
   }
 
   @UiThread void load() {
     if (drugstore != null) {
-      title.setText(drugstore.getName());
-      content.setText(drugstore.getAddress());
+      city.setText("CONCÓRDIA");
+      local.setText(drugstore.getName());
+      street.setText(drugstore.getAddress());
     }
   }
 
-  @Click void directions() {
+  @Click void navigate() {
     Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse("http://maps.google.com/maps?q=loc:"
         + drugstore.getLatitude()
         + ","
