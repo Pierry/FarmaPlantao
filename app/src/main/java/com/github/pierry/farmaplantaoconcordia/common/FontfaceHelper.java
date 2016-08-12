@@ -7,7 +7,7 @@ import android.widget.TextView;
 public class FontfaceHelper {
 
   public static void setFontFace(Context context, TextView textView) {
-    Typeface type = Typeface.createFromAsset(context.getAssets(), "roboto.ttf");
+    Typeface type = Typeface.createFromAsset(context.getAssets(), "OpenSans-Semibold.ttf");
     textView.setTypeface(type);
   }
 }

@@ -17,4 +17,5 @@
   <string name="local_example">Farmácia Concórdia</string>
   <string name="navigate">Navegar até a farmácia</string>
   <string name="street_example">Rua Marechal Deodoro 110</string>
+  <string name="title_activity_maps">Map</string>
 </resources>
