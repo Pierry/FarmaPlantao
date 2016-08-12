@@ -3,7 +3,7 @@
   <string name="content_example">Rua Joao da Silva, 232</string>
   <string name="app_name_title">FarmaPlantão</string>
   <string name="click_to_go">Toque para navegar</string>
-  <string name="today_example">31 de julho de 2016</string>
+  <string name="today_example">Hoje, 31 de julho de 2016</string>
   <string name="title_example">Farmácia Farmais</string>
   <string name="tomorrow_example">Amanhã, FarmaCentro</string>
   <string name="home">Home</string>
@@ -14,4 +14,7 @@
   <string name="city_example">Concórdia</string>
   <string name="message_city_example">CIDADE SELECIONADA</string>
   <string name="city">Concórdia</string>
+  <string name="local_example">Farmácia Concórdia</string>
+  <string name="navigate">Navegar até a farmácia</string>
+  <string name="street_example">Rua Marechal Deodoro 110</string>
 </resources>
